@@ -1,0 +1,29 @@
+.top {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+.icon ul li {
+  display: inline;
+  padding: 10px;
+
+}
+.line {
+    line-height: 4vh;
+    color: rgb(87, 84, 84);
+}
+.main {
+    color: skyblue;
+}
+.effect {
+    color: black;
+}
+.bottom {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
